@@ -4,7 +4,7 @@ Tableau Dashboard 🌐
 
 (https://public.tableau.com/app/profile/jo.o.cabral/viz/SQLCOVIDDasboard/Dashboard1?publish=yes)
 
-![Dashboard_1](Dashboard_1.png)
+![Dashboard_1](images/Dashboard_1.png)
 
 Dataset Source 🧭
 
